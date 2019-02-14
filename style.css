@@ -1,0 +1,12 @@
+.container {
+  height: 10vw;
+  border: solid 2px black;
+}
+
+#box {
+  height: 10vw;
+  width: 7vw;
+  border: solid 1px violet;
+  background-color: blueviolet;
+  display: inline-flex;
+}
